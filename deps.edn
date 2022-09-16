@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps
+ {org.clojure/clojure {:mvn/version "1.11.1"}
+  com.walmartlabs/lacinia {:mvn/version "1.2-alpha-3"}}}
